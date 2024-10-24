@@ -1,0 +1,15 @@
+{
+    "name": "ice-actually-melts",
+    "version": "1.0.0",
+    "title": "Ice actually melts",
+    "description": "Make ice platforms actually melt",
+    "factorio_version": "2.0",
+    "dependencies": [
+        "base >= 2.0.0",
+        "space-age >= 2.0.0"
+    ],
+    "author": "daniels1989",
+    "contact": "",
+    "homepage": "https://github.com/daniels1989/nicefill",
+    "freezing_required": true
+}
