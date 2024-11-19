@@ -1,6 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2024-11-19
+  Bugfixes:
+    - Implemented fix for the tile_collision_masks update
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
-Date: 24. 10. 2024
+Date: 2024-10-24
   Features:
     - Aquilo: Ice platforms and smooth ice melt
     - Aquilo: Ice platforms and smooth ice can be built on

@@ -1,12 +1,12 @@
 {
     "name": "ice-actually-melts",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "title": "Ice actually melts",
     "description": "Make ice platforms actually melt",
     "factorio_version": "2.0",
     "dependencies": [
-        "base >= 2.0.0",
-        "space-age >= 2.0.0"
+        "base >= 2.0.18",
+        "space-age >= 2.0.18"
     ],
     "author": "daniels1989",
     "contact": "",
