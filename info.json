@@ -11,5 +11,10 @@
     "author": "daniels1989",
     "contact": "",
     "homepage": "https://github.com/daniels1989/ice-actually-melts",
-    "freezing_required": true
+    "freezing_required": true,
+    "package": {
+        "ignore": [
+            "**/*.psd"
+        ]
+    }
 }
