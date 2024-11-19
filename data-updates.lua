@@ -6,7 +6,7 @@ if settings.startup["ice-actually-melts--smooth-ice-melts"].value then
 end
 
 if settings.startup["ice-actually-melts--smooth-ice-buildable"].value then
-	data.raw.tile['ice-smooth'].collision_mask = tile_collision_masks.ground
+	data.raw.tile['ice-smooth'].collision_mask = tile_collision_masks.ground()
 end
 
 -- Ice platform
@@ -15,5 +15,5 @@ if settings.startup["ice-actually-melts--ice-platform-melts"].value then
 end
 
 if settings.startup["ice-actually-melts--ice-platform-buildable"].value then
-	data.raw.tile['ice-platform'].collision_mask = tile_collision_masks.ground
+	data.raw.tile['ice-platform'].collision_mask = tile_collision_masks.ground()
 end
